@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.linkedin.com/in/abhishek-singh-6658493b'>LinkedIn</a>. Engineer by profession, artist and philosopher at heart.
+subtitle: <a href="http://www.linkedin.com/in/abhishek-singh-6658493b#link">LinkedIn</a>. Engineer by profession, artist and philosopher at heart.
 
 profile:
   align: right

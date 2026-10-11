@@ -1,0 +1,29 @@
+<div class="grid-item">
+  <div class="card hoverable">
+    <div class="card-body">
+      {% if project.coming_soon %}
+        <span class="coming-soon-badge">Coming soon</span>
+      {% endif %}
+      <h2 class="card-title">
+        <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+      </h2>
+      <p class="card-text">{{ project.description }}</p>
+      {% if project.github or project.live %}
+        <div class="project-links">
+          {% if project.github %}
+            <a class="project-link" href="{{ project.github }}">
+              <i class="fa-brands fa-github"></i>
+              <span>Repository</span>
+            </a>
+          {% endif %}
+          {% if project.live %}
+            <a class="project-link" href="{{ project.live }}">
+              <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              <span>Live</span>
+            </a>
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>

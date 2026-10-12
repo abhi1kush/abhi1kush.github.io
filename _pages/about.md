@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Senior Software Engineer (Golang) at MakeMyTrip, with 5+ years of experience. M.Tech in Computer Science and Engineering from IIT Bombay.
+IT Specialist Officer at State Bank of India, with 7+ years of experience in backend development, previously at MakeMyTrip, Druva, Embibe, and Huawei. M.Tech in Computer Science and Engineering from IIT Bombay.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Software Engineer (Golang) at MakeMyTrip.
+subtitle: IT Specialist Officer at State Bank of India.
 
 profile:
   align: right

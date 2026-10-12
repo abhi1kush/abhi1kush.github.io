@@ -33,9 +33,13 @@
       department: "University: CBSE"
       year: "2007"
 
-- title: Work Experience (5+ years)
+- title: Work Experience (7+ years)
   type: time_table
   contents:
+    - title: "IT Specialist Officer"
+      institution: "State Bank of India, Bengaluru"
+      year: July 2025 - Present
+
     - title: "Senior Software Engineer 2 [Golang]"
       institution: "MakeMyTrip, Banglore"
       year: Sept 2022
